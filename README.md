@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![LanceMoe's github stats](https://github-readme-stats.vercel.app/api?username=LanceMoe&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceMoe&hide=php,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceMoe&hide=css&count_private=true&line_height=33.7)
 
 <!-- Here are some ideas to get you started:
 
