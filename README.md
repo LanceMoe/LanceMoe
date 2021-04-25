@@ -6,7 +6,7 @@
 
   ### My main programming language:
 
-  - (recently) `Python`, `TypeScript`, `JavaScript`, `C++`, `go`
+  - (recently) `C++`, `Python`, `TypeScript`, `JavaScript`, `go`
   - (before) `C`, `x86asm`, `OCaml`, `PHP`, `Java`
 
   ### My Blog:
