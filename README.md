@@ -2,7 +2,7 @@
 
 ![Visitors counter](https://count.getloli.com/get/@LanceMoe?theme=rule34)    
 ![LanceMoe's github stats](https://github-readme-stats.vercel.app/api?username=LanceMoe&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceMoe&count_private=false&layout=compact&langs_count=8&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/LanceMoe?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&languages.ignored=PHP%2CCSS&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
 
 <details>
   <summary>Insignificant things</summary>
