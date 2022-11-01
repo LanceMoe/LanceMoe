@@ -18,7 +18,7 @@ I'm a Full-Stack developer, focus on front-end development, back-end development
 **My Websites**
 
 - [iya.app](https://iya.app/): Software sharing community forum.
-- [ip.iya.app](https://ip.iya.app/): Dynamic anime picture show your IP and browser info.
+- [ip.ntrqq.net](https://ip.ntrqq.net/): Dynamic anime picture show your IP and browser info.
 
 
 **My Projects**
