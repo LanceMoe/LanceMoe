@@ -6,7 +6,7 @@ I'm a Full-Stack developer, focus on front-end development, back-end development
 
 **My main programming languages**
 
-- (recently) `Python`, `TypeScript`, `JavaScript`, `C++`
+- (recently) `TypeScript`,　`Python`, `JavaScript`, `C++`
 - (before) `C`, `x86asm`, `OCaml`, `PHP`, `golang`, `Java`
 
 
