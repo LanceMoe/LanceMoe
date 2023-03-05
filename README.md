@@ -2,7 +2,7 @@
 
 I'm a Full-Stack developer, focus on front-end development, back-end development, client-side development and binary disassembly analysis.
 
-![Visitors counter](https://count.getloli.com/get/@LanceMoe?theme=rule34)    
+![Visitors counter](https://count.ayaya.beauty/get/@LanceMoe?theme=asoul)    
 
 **My main programming languages**
 
