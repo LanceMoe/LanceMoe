@@ -4,8 +4,6 @@ I'm a Full-Stack developer, focus on front-end development (recently), back-end 
 
 ![Visitors counter](https://count.ayaya.beauty/get/@LanceMoe?theme=asoul)    
 
-![Stats](https://github-profile-trophy.vercel.app/?username=lancemoe&column=8&theme=gruvbox&no-frame=true)
-
 #### My main programming languages
 
 - (recently) `TypeScript`, `Python`, `JavaScript`, `C++`
