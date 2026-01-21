@@ -1,33 +1,30 @@
 <h1 align="center">Hi 👋, I'm Lance</h1>
 
-I'm a Full-Stack developer, focus on front-end development (recently), back-end development, client-side development and binary disassembly analysis.
+I'm a full-stack developer with a strong focus on front-end development recently.  
+I also have experience in back-end development, client-side applications, and binary disassembly analysis.
 
 ![Visitors counter](https://count.ayaya.beauty/get/@LanceMoe?theme=asoul)    
 
-#### My main programming languages
+#### Main Programming Languages
 
-- (recently) `TypeScript`, `Python`, `JavaScript`, `C++`
-- (before) `C`, `x86asm`, `OCaml`, `PHP`, `golang`, `Java`
+- **Recently:** `TypeScript`, `Python`, `JavaScript`, `C++`
+- **Previously:** `C`, `x86asm`, `OCaml`, `PHP`, `Go`, `Java`
 
+#### Blog
 
-#### My Blog
+- [Lance.Moe](https://lance.moe/) — A personal blog recording my life and technical notes, starting from my elementary school days.
 
-- [Lance.Moe](https://lance.moe/): Records of the trivialities of my life and technical diaries, start at my elementary school days.
+#### Websites (Selected)
 
+- [iya.app](https://iya.app/) — A software-sharing community forum.
+- [ip.ntrqq.net](https://ip.ntrqq.net/) — Displays your IP address and browser information with dynamic anime images.
 
-#### My Websites (Part)
+#### Projects (Selected)
 
-- [iya.app](https://iya.app/): Software sharing community forum.
-- [ip.ntrqq.net](https://ip.ntrqq.net/): Dynamic anime picture show your IP and browser info.
-
-
-#### My Projects (Part)
-
-- [NtrQQ](https://github.com/NtrQQ/): An enhanced plug-in for QQ (C++ Hummer Framework PC Client) from 2010. (No longer maintained)
-- [OpenAI Translator](https://github.com/LanceMoe/openai-translator): A translator app that uses OpenAI API to translate between languages. It is a PWA that can be installed on your phone or desktop.
-- [Japan PR Visa Tool](https://eiju.lance.moe/): Japanese permanent residence(eiju) examination time prediction, application assistance tool.
-- [MCPDict Web](https://mcpdict.lance.moe/): Dictionary for querying the pronunciation and meaning of Chinese characters(Kanji) from ancient times to the present.
-- [StrengthsFinder](https://strengths-finder.lance.moe/): A tool that automatically tests your personality and strengths based on the original StrengthsFinder2.0 book. (Only supports Chinese)
-- [Loan calculator](https://loan.lance.moe/): Tool for calculating mortgages. (Only supports Chinese)
-- [pyjiting](https://github.com/LanceMoe/pyjiting): My graduation project, a prototype of a JIT compiler for CPython based on llvmlite.
-
+- [NtrQQ](https://github.com/NtrQQ/) — An enhanced plugin for the QQ PC client (C++ Hummer Framework), originally developed in 2010. *(No longer maintained)*
+- [OpenAI Translator](https://github.com/LanceMoe/openai-translator) — A PWA translator app powered by the OpenAI API, installable on both mobile and desktop.
+- [Japan PR Visa Tool](https://eiju.lance.moe/) — A tool for estimating Japanese permanent residence (永住 / eiju) examination timelines and assisting with applications.
+- [MCPDict Web](https://mcpdict.lance.moe/) — A dictionary for querying the pronunciation and meanings of Chinese characters (Kanji) from ancient times to the present.
+- [StrengthsFinder](https://strengths-finder.lance.moe/) — An automated personality and strengths assessment tool based on *StrengthsFinder 2.0*. *(Chinese only)*
+- [Loan Calculator](https://loan.lance.moe/) — A mortgage calculation tool. *(Chinese only)*
+- [pyjiting](https://github.com/LanceMoe/pyjiting) — My graduation project: a prototype JIT compiler for CPython built on top of `llvmlite`.
